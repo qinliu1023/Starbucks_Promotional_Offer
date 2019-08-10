@@ -13,9 +13,8 @@ There are three types of offers:
 the user needs to spend
 
 Offers can be delivered via multiple channels. To better offer offers, we need to be clear of at least the following two things.
-1. identify which groups of people are most responsive to each
-type of offer
-1. figure out how best to present each type of offer.
+1. Who would be more likely to responde to informational and promotional (bogo and discount) offers accordingly?
+1. For customers who responded to both BOGO and Discount offers, how apart can we separate them?
 
 
 ## File Description
